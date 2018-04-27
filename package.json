@@ -1,0 +1,14 @@
+{
+  "name": "isi-promise",
+  "version": "1.0.0",
+  "description": "usefull promise helper methods, can be used with your favorite promise lib",
+  "main": "index.js",
+  "keywords": [
+    "promise",
+    "q",
+    "semaphore",
+    "helper"
+  ],
+  "author": "Benjamin Isberner",
+  "license": "ISC"
+}
